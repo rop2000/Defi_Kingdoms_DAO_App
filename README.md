@@ -7,7 +7,7 @@
 - All other folders can be explored for frontend React components and node configs
 
 **Tech Stack**
-* Mantine
-* NextJS
+* ReactJS
+* NodeJS
 * Solidity + Web3.js
 * AWS EC2, ELB
